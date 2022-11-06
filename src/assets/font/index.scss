@@ -1,0 +1,56 @@
+$fw-regular: 400;
+$fw-semi-bold: 600;
+$fw-bold: 700;
+
+@font-face {
+  font-family: "Brandon-Grotesque-Font-Family";
+  font-weight: $fw-bold;
+  src: local("Brandon-Grotesque-Font-Family"),
+    url(./Brandon-Grotesque-Font-Family/brandon-grotesque-black-58a8a3e824392.otf) format("truetype");
+}
+
+// @font-face {
+//   font-family: 'SourceSansPro';
+//   font-weight: $fw-semi-bold;
+//   src: local('SourceSansPro'), url(./SourceSansPro-SemiBold.ttf) format('truetype');
+// }
+
+// @font-face {
+//   font-family: 'SourceSansPro';
+//   font-weight: $fw-bold;
+//   src: local('SourceSansPro'), url(./SourceSansPro-Bold.ttf) format('truetype');
+// }
+
+$fs-smaller: 12px;
+$fs-small: 14px;
+$fs-medium: 16px;
+$fs-big: 18px;
+$fs-bigger: 20px;
+$fs-bigger2: 24px;
+$fs-biggest: 32px;
+
+$lh-tiny: 14px;
+$lh-smallest: 16px;
+$lh-smaller: 18px;
+$lh-small: 20px;
+$lh-smedium: 23px;
+$lh-medium: 24px;
+$lh-big: 38px;
+$lh-bigger: 40px;
+$lh-biggest: 48px;
+
+// Size, Ligne Height
+// 20, 24
+// 32, 40
+// 16, 20
+// 20, 48
+// 18, 23
+// 20, 20
+// 16, 24
+// 14, 14
+// 14, 20
+// 12, 16
+// 18, 20
+// 20, 18
+// 14, 18
+// 20, 30
